@@ -21,7 +21,7 @@ How to Use:
 <<6.Optionally enable limit checks and set maximum values.>>
 <<7.Click Save – a backup will be created and your changes applied.>>
 
-CRITICAL: When changing saves, the game must be turned off
+CRITICAL: When changing saves, the game must be turned off!
 
 
 
