@@ -13,8 +13,8 @@ Backup: Automatically creates a .bak copy of your save before writing changes.
 Dark/Light theme: Toggle between light and dark mode for comfortable viewing.
 
 How to Use:
-  1.Download the latest UploadLabsEditor.exe from the Releases page.
-  2.Run the executable (no installation required).
+  1.Download the latest UploadLabsEditor.exe
+  2.Run the executable.
   3.Select your save file (default path is automatically suggested).
   4.Click Load to read current values.
   5.Edit the fields as needed.
