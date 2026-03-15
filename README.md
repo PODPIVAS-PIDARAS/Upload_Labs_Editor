@@ -13,13 +13,13 @@ Backup: Automatically creates a .bak copy of your save before writing changes.
 Dark/Light theme: Toggle between light and dark mode for comfortable viewing.
 
 How to Use:
-1.Download the latest UploadLabsEditor.exe
-2.Run the executable.
-3.Select your save file (default path is automatically suggested).
-4.Click Load to read current values.
-5.Edit the fields as needed.
-6.Optionally enable limit checks and set maximum values.
-7.Click Save – a backup will be created and your changes applied.
+<<1.Download the latest UploadLabsEditor.exe>>
+<<2.Run the executable.>>
+<<3.Select your save file (default path is automatically suggested).>>
+<<4.Click Load to read current values.>>
+<<5.Edit the fields as needed.>>
+<<6.Optionally enable limit checks and set maximum values.>>
+<<7.Click Save – a backup will be created and your changes applied.>>
 
 CRITICAL: When changing saves, the game must be turned off
 
